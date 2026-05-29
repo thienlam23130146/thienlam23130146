@@ -8,10 +8,10 @@ I'm currently a research student at HCMUS. I've started doing web development an
 
 ****
 ## Tools n Languare Program
-Edit: Adobe Inlustrator, Capcut
-AR: UNITY, Blender
-Proteus
-C#, C++, Arduino, Python ---
+- Edit: Adobe Inlustrator, Capcut
+- AR: UNITY, Blender
+- Circuit: Proteus
+- C#, C++, Arduino, Python ---
 
 ****
 ## About me
